@@ -1,4 +1,4 @@
-# Presupuesto de Inversión: Departamento Tipo Loft Industrial (Llave en Mano)
+# Presupuesto de Inversión: Departamento Tipo Loft Industrial
 **Ubicación de referencia:** Hermosillo, Sonora
 **Dimensiones estimadas:** 50 m² de construcción (35 m² planta baja + 15 m² tapanco)
 **Superficie de terreno:** 120 m² (Espacio para departamento, pasillo de servicio y estacionamiento para 2 autos)
